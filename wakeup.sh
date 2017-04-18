@@ -1,1 +1,1 @@
-echo 'Good Morning!'
+echo 'Good Night!'
